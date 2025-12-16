@@ -15,7 +15,10 @@
             get
             {
 				float optionsTotal = Options.Sum(o => o.CalculerPrix(Duree));
-                return (PrixParJour * Duree) + optionsTotal;
+				if (Duree >= 7)
+					return ((PrixParJour * Duree) + optionsTotal) * 0.15f;
+				else 
+					return (PrixParJour * Duree) + optionsTotal;
             }
         }
 
@@ -32,6 +35,14 @@
 		public void checkout()
 		{
 			Typepaiement.pay(PrixTotal);
+		}
+
+		public void isValid()
+		{
+			if (Duree > 30)
+			{
+				Console.WriteLine("La location ne doit pas excéder 30 jours");
+			}
 		}
 	}
 }

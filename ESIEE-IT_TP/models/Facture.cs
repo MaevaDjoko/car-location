@@ -3,13 +3,11 @@
 	public class Facture
 	{
 		public int id { get; set; }
-		public Paiement Paiement { get; set; }
 		public Location Location { get; set; }
 
-		public Facture(int Id, Paiement paiement, Location location)
+		public Facture(int Id, Location location)
 		{
 			id = Id;
-			Paiement = paiement;
 			Location = location;
 		}
 	}

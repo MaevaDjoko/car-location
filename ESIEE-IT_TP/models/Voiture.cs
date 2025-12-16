@@ -14,14 +14,16 @@
         public string Marque { get; set; }
         public string Modele { get; set; }
         public int Annee { get; set; }
+        public int Kilometrage { get; set; }
         public Etat Etat { get; set; }
 
-        public Voiture(int immatriculation, string marque, string modele, int annee, Etat etat)
+        public Voiture(int immatriculation, string marque, string modele, int annee, int kilometrage, Etat etat)
         {
             Immatriculation = immatriculation;
             Marque = marque;
             Modele = modele;
             Annee = annee;
+            Kilometrage = kilometrage;
             Etat = etat;
         }
     }
