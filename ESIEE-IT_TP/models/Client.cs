@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Models
+﻿namespace ESIEE_IT_TP.models
 {
     public abstract class ClientBase
     {

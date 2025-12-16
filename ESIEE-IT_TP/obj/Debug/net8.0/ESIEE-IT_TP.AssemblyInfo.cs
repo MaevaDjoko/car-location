@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ESIEE-IT_TP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4d41131afb404489c43af811706f977b4777ad7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40eaa27dcc719e5010398a573c07f91aa83ea32a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ESIEE-IT_TP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ESIEE-IT_TP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
