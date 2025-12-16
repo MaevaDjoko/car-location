@@ -1,0 +1,15 @@
+C:\Users\maeva\source\repos\ESIEE-IT_TP\ESIEE-IT_TP\bin\Debug\net8.0\ESIEE-IT_TP.exe
+C:\Users\maeva\source\repos\ESIEE-IT_TP\ESIEE-IT_TP\bin\Debug\net8.0\ESIEE-IT_TP.deps.json
+C:\Users\maeva\source\repos\ESIEE-IT_TP\ESIEE-IT_TP\bin\Debug\net8.0\ESIEE-IT_TP.runtimeconfig.json
+C:\Users\maeva\source\repos\ESIEE-IT_TP\ESIEE-IT_TP\bin\Debug\net8.0\ESIEE-IT_TP.dll
+C:\Users\maeva\source\repos\ESIEE-IT_TP\ESIEE-IT_TP\bin\Debug\net8.0\ESIEE-IT_TP.pdb
+C:\Users\maeva\source\repos\ESIEE-IT_TP\ESIEE-IT_TP\obj\Debug\net8.0\ESIEE-IT_TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maeva\source\repos\ESIEE-IT_TP\ESIEE-IT_TP\obj\Debug\net8.0\ESIEE-IT_TP.AssemblyInfoInputs.cache
+C:\Users\maeva\source\repos\ESIEE-IT_TP\ESIEE-IT_TP\obj\Debug\net8.0\ESIEE-IT_TP.AssemblyInfo.cs
+C:\Users\maeva\source\repos\ESIEE-IT_TP\ESIEE-IT_TP\obj\Debug\net8.0\ESIEE-IT_TP.csproj.CoreCompileInputs.cache
+C:\Users\maeva\source\repos\ESIEE-IT_TP\ESIEE-IT_TP\obj\Debug\net8.0\ESIEE-IT_TP.sourcelink.json
+C:\Users\maeva\source\repos\ESIEE-IT_TP\ESIEE-IT_TP\obj\Debug\net8.0\ESIEE-IT_TP.dll
+C:\Users\maeva\source\repos\ESIEE-IT_TP\ESIEE-IT_TP\obj\Debug\net8.0\refint\ESIEE-IT_TP.dll
+C:\Users\maeva\source\repos\ESIEE-IT_TP\ESIEE-IT_TP\obj\Debug\net8.0\ESIEE-IT_TP.pdb
+C:\Users\maeva\source\repos\ESIEE-IT_TP\ESIEE-IT_TP\obj\Debug\net8.0\ESIEE-IT_TP.genruntimeconfig.cache
+C:\Users\maeva\source\repos\ESIEE-IT_TP\ESIEE-IT_TP\obj\Debug\net8.0\ref\ESIEE-IT_TP.dll

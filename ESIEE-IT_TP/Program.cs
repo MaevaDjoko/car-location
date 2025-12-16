@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 interface Paiement
 {
     void pay(float montant);
@@ -59,7 +59,7 @@ class Programme
 {
     static void Main()
     {
-        Commande CI = new Commande(new Paypal("Test@gmail.com"), 200.0f);
+        Commande CI = new Commande(new Creditcard("12456"), 200.0f);
         CI.checkout();
     }
 }
