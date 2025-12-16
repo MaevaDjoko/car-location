@@ -1,0 +1,14 @@
+C:\M2\C#\Car_location\bin\Debug\net8.0\Car_location.exe
+C:\M2\C#\Car_location\bin\Debug\net8.0\Car_location.deps.json
+C:\M2\C#\Car_location\bin\Debug\net8.0\Car_location.runtimeconfig.json
+C:\M2\C#\Car_location\bin\Debug\net8.0\Car_location.dll
+C:\M2\C#\Car_location\bin\Debug\net8.0\Car_location.pdb
+C:\M2\C#\Car_location\obj\Debug\net8.0\Car_location.GeneratedMSBuildEditorConfig.editorconfig
+C:\M2\C#\Car_location\obj\Debug\net8.0\Car_location.AssemblyInfoInputs.cache
+C:\M2\C#\Car_location\obj\Debug\net8.0\Car_location.AssemblyInfo.cs
+C:\M2\C#\Car_location\obj\Debug\net8.0\Car_location.csproj.CoreCompileInputs.cache
+C:\M2\C#\Car_location\obj\Debug\net8.0\Car_location.dll
+C:\M2\C#\Car_location\obj\Debug\net8.0\refint\Car_location.dll
+C:\M2\C#\Car_location\obj\Debug\net8.0\Car_location.pdb
+C:\M2\C#\Car_location\obj\Debug\net8.0\Car_location.genruntimeconfig.cache
+C:\M2\C#\Car_location\obj\Debug\net8.0\ref\Car_location.dll
