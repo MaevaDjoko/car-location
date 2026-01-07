@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ESIEE-IT_TP")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Car_location")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8771a3798dcd30d7f7f7d8f840e4247e35229021")]
-[assembly: System.Reflection.AssemblyProductAttribute("ESIEE-IT_TP")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ESIEE-IT_TP")]
+[assembly: System.Reflection.AssemblyProductAttribute("Car_location")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Car_location")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

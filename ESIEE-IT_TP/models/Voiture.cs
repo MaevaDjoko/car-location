@@ -16,8 +16,9 @@
         public int Annee { get; set; }
         public int Kilometrage { get; set; }
         public Etat Etat { get; set; }
+        public DateTime DerniereMaintenance { get; set; }
 
-        public Voiture(int immatriculation, string marque, string modele, int annee, int kilometrage, Etat etat)
+        public Voiture(int immatriculation, string marque, string modele, int annee, int kilometrage, Etat etat, DateTime dernieremaintenance)
         {
             Immatriculation = immatriculation;
             Marque = marque;
@@ -25,6 +26,13 @@
             Annee = annee;
             Kilometrage = kilometrage;
             Etat = etat;
+            DerniereMaintenance = dernieremaintenance;
+        }
+
+        public bool besoinMaintenance()
+        {
+            return Kilometrage >= 10000 ||
+                   DerniereMaintenance.AddMonths(6) <= DateTime.Now;
         }
     }
 }

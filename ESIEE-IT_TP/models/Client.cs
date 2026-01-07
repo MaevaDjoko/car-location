@@ -6,10 +6,28 @@
         protected string? Nom { get; set; }
         protected string? Prenom { get; set; }
         protected List<Location>? Locations { get; set; } 
+        public List<Facture> Factures { get; } = new();
 
         public void display()
         {
             Console.WriteLine($"un client {Nom}");
+        }
+
+        public void ajouterLocation(Location location)
+        {
+            Locations ??= new List<Location>();
+            Locations.Add(location);
+        }
+
+        public bool peutLouer()
+        {
+            return Locations == null || Locations.Count(l => l.EstActive) <= 3;
+        }
+
+        public void afficherFactures()
+        {
+            foreach (var f in Factures)
+                Console.WriteLine($"Facture #{f.id} pour {f.Location.Voiture.Modele} de M./Mme {Nom} - {Prenom}: {f.Location.PrixTotal} euros");
         }
     }
 
